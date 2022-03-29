@@ -1,0 +1,8 @@
+a{
+    text-decoration: none;
+    color: black;
+}
+li{
+    display: inline-block;
+    margin-left: 20px;
+}
